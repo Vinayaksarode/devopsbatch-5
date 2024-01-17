@@ -1,1 +1,3 @@
 this is feature2
+
+added new changes in feature2
